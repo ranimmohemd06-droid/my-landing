@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-label="Group class">
+  <rect width="600" height="400" fill="#222"/>
+  <circle cx="300" cy="200" r="160" fill="#2b2b2b"/>
+  <!-- person 1 -->
+  <circle cx="160" cy="135" r="30" fill="#f1c9a5"/>
+  <rect x="125" y="170" width="70" height="95" rx="24" fill="#ff5a3c"/>
+  <path d="M130 185 L95 130" stroke="#f1c9a5" stroke-width="14" stroke-linecap="round"/>
+  <path d="M190 185 L225 130" stroke="#f1c9a5" stroke-width="14" stroke-linecap="round"/>
+  <!-- person 2 -->
+  <circle cx="300" cy="115" r="34" fill="#e0b08a"/>
+  <rect x="260" y="155" width="80" height="110" rx="26" fill="#e64a2e"/>
+  <path d="M265 170 L225 105" stroke="#e0b08a" stroke-width="14" stroke-linecap="round"/>
+  <path d="M335 170 L375 105" stroke="#e0b08a" stroke-width="14" stroke-linecap="round"/>
+  <!-- person 3 -->
+  <circle cx="440" cy="135" r="30" fill="#f1c9a5"/>
+  <rect x="405" y="170" width="70" height="95" rx="24" fill="#ff5a3c"/>
+  <path d="M410 185 L375 130" stroke="#f1c9a5" stroke-width="14" stroke-linecap="round"/>
+  <path d="M470 185 L505 130" stroke="#f1c9a5" stroke-width="14" stroke-linecap="round"/>
+  <!-- mats -->
+  <rect x="110" y="285" width="100" height="14" rx="7" fill="#444"/>
+  <rect x="250" y="285" width="100" height="14" rx="7" fill="#444"/>
+  <rect x="390" y="285" width="100" height="14" rx="7" fill="#444"/>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-label="Gym equipment">
+  <rect width="600" height="400" fill="#222"/>
+  <circle cx="300" cy="200" r="160" fill="#2b2b2b"/>
+  <!-- dumbbell -->
+  <rect x="120" y="150" width="200" height="16" rx="8" fill="#bbb"/>
+  <rect x="95" y="115" width="32" height="86" rx="8" fill="#ff5a3c"/>
+  <rect x="313" y="115" width="32" height="86" rx="8" fill="#ff5a3c"/>
+  <rect x="70" y="135" width="24" height="46" rx="6" fill="#e64a2e"/>
+  <rect x="346" y="135" width="24" height="46" rx="6" fill="#e64a2e"/>
+  <!-- kettlebell -->
+  <path d="M410 215 q0 -50 50 -50 q50 0 50 50" fill="none" stroke="#bbb" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="460" cy="265" r="62" fill="#ff5a3c"/>
+  <circle cx="440" cy="248" r="12" fill="#ff8a70" opacity="0.6"/>
+  <!-- floor -->
+  <rect x="40" y="335" width="520" height="8" rx="4" fill="#444"/>
+</svg>

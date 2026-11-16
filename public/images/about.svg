@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-label="Dumbbell">
+  <rect width="600" height="400" rx="24" fill="#222"/>
+  <circle cx="300" cy="200" r="150" fill="#2b2b2b"/>
+  <rect x="190" y="190" width="220" height="20" rx="8" fill="#bbb"/>
+  <rect x="130" y="130" width="40" height="140" rx="10" fill="#ff5a3c"/>
+  <rect x="90" y="155" width="30" height="90" rx="8" fill="#e64a2e"/>
+  <rect x="430" y="130" width="40" height="140" rx="10" fill="#ff5a3c"/>
+  <rect x="480" y="155" width="30" height="90" rx="8" fill="#e64a2e"/>
+</svg>
