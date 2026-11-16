@@ -2,7 +2,7 @@
 
 A responsive landing page for a fictional gym, built with **React** and **Vite**.
 
-**Live site:** https://YOUR-PROJECT.vercel.app  <!-- replace with your Vercel link -->
+**Live site:** https://my-landing-zeta-ten.vercel.app <!-- replace with your Vercel link -->
 
 ## Sections
 Navbar, Hero, Features, About, Contact, Footer.
